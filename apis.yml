@@ -12,6 +12,17 @@ description: >-
   and private systems. As of this profile Photonic is pre-commercial from an integration standpoint: it
   publishes no API, SDK, developer portal or machine-readable contract of any kind.
 url: https://raw.githubusercontent.com/api-evangelist/photonic/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 image: https://photonic.com/wp-content/uploads/2026/02/cropped-Photonic_Symbol_Blue_white_space-192x192.png
 x-type: company
 x-source: harvest:secondary-market
